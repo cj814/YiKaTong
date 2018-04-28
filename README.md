@@ -11,4 +11,4 @@ npm run dev
 编译
 npm run build
 
-在线预览：https://cj814.github.io/YiKaTong/docs/
+在线预览：https://cj814.github.io/YiKaTong/docs/index.html#/
