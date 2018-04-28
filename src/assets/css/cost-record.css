@@ -1,0 +1,34 @@
+.cost-content-item{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.cost-content-item .left{
+	display: flex;
+	align-items: center;
+}
+.cost-content-item .left-sub{
+	display: flex;
+	flex-direction: column;
+}
+.cost-content-item .left-sub span:first-child{
+	color: #585858;
+	font-size: 0.32rem;
+	position: relative;
+	top: 0.08rem;
+}
+.cost-content-item .left-sub span:last-child{
+	color: #8b8b8b;
+	font-size: 0.266666rem;
+	position: relative;
+	top: -0.053333rem;
+}
+.cost-content-item img{
+	width: 0.506666rem;
+	height: 0.613333rem;
+	margin-right: 0.133333rem;
+}
+.cost-content-item .right{
+	color: #585858;
+	font-size: 0.32rem;
+}

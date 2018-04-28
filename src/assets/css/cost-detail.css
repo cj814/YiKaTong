@@ -1,0 +1,20 @@
+.cost-content{
+	background: #fff;
+}
+.cost-content-item{
+	padding: 0.373333rem 0.32rem;
+	display: flex;
+	align-items: center;
+	position: relative;
+}
+.cost-content-item img{
+	width: 0.506666rem;
+	height: 0.506666rem;
+	margin-right: 0.32rem;
+}
+.cost-content-item span{
+	color: #585858;
+	font-size: 0.32rem;
+	position: relative;
+	top: 0.04rem;
+}

@@ -1,0 +1,58 @@
+.index-header{
+	position: relative;
+}
+.kaoqin-date{
+	height: 0.986666rem;
+	line-height: 0.986666rem;
+	padding: 0 0.266666rem;
+	font-size: 0.32rem;
+	position: absolute;
+	bottom: 0;
+	color: #fff;
+	background: rgba(74, 95, 108, .55);
+}
+.kaoqin-content{
+	padding: 0 0.266666rem 0.96rem;
+	background: #fff;
+	position: relative;
+}
+.kaoqin-item{
+	margin: 0.266666rem 0 0.4rem;
+}
+.kaoqin-item.second{
+	margin-top: 1.466666rem;
+}
+.kaoqin-item img{
+	width: 0.373333rem;
+	height: 0.373333rem;
+	margin-right: 0.32rem;
+	position: relative;
+	top: 0.053333rem;
+}
+.kaoqin-item span{
+	color: #3f3e3e;
+	font-size: 0.32rem;
+}
+.kaoqin-item-sub{
+	padding: 0 1.066666rem;
+}
+.kaoqin-item-sub img{
+	width: 0.24rem;
+	height: 0.333333rem;
+	position: relative;
+	top: 0.066666rem;
+}
+.kaoqin-item-sub span{
+	color: #8b8b8b;
+	font-size: 0.266666rem;
+}
+.kaoqin-line{
+	position: absolute;
+	top: 0.72rem;
+	left: 0.466666rem;
+	bottom: 2.666666rem;
+	width: 1px;
+	-webkit-transform: scaleX(.5);
+    transform: scaleX(.5);
+	background-color: #dcdcdc;
+}

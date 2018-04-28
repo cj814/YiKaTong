@@ -1,0 +1,29 @@
+.account-header{
+	height: 6.293333rem;
+	background: #5b74ff;
+}
+.swiper-container {
+	width: 100%;
+	padding-top: 0.96rem;
+	padding-bottom: 0.586666rem;
+}
+.swiper-slide {
+	width: 80%;
+	height: 4.746666rem;
+
+}
+.index-content-item a{
+	font-size: 0.32rem;
+}
+.index-content-item a.first:after{
+	content: '';
+	right: 0!important;
+}
+.index-content-item .item-num{
+	right: 15px;
+}
+.index-content-item .item-num i{
+	color: #ff645d;
+	margin-right: 0.053333rem;
+	font-style: normal;
+}

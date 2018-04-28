@@ -1,0 +1,10 @@
+.index-header{
+	background-image: url(../images/kaoqin-header-bg.png);
+	background-size: 100% 100%;
+}
+.item-num{
+	position: absolute!important;
+	top: 0.293933rem!important;	
+	right: 1rem;
+	color: #999;
+}

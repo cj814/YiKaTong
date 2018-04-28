@@ -1,0 +1,39 @@
+.index-header{
+	height: 5.106666rem;
+	background-image: url(../images/index-header-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.index-header img{
+	width: 2.373333rem;
+	height: 2.373333rem;
+	margin-bottom: 0.213333rem;
+	border: solid 0.16rem #caddff;
+	border-radius: 50%;
+}
+.index-header span{
+	display: block;
+	font-size: 0.32rem;
+	font-weight: bold;
+}
+.index-content{
+	background: #fff;
+}
+.index-content-item a{
+	display: flex!important;
+	align-items: center;
+}
+.index-content-item img{
+	width: 0.56rem;
+	height: 0.56rem;
+	margin-right: 0.266666rem;
+}
+.index-content-item span{
+	font-size: 0.32rem;
+	position: relative;
+	top: 0.04rem;
+}

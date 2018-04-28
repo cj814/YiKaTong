@@ -1,0 +1,33 @@
+body{
+	background: #f6f5f5;
+}
+.mui-navigate-right:after, .mui-push-right:after{
+	font-size: 0.48rem
+}
+.bar{
+	height: 0.773333rem;
+	padding: 0 0.266666rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: #ebebeb;
+}
+.bar span.left{
+	font-size: 0.32rem;
+	color: #7e7e7e;
+}
+.bar .right{
+	display: flex;
+	align-items: center;
+}
+.bar .right span{
+	color: #0386eb;
+	font-size: 0.24rem;
+}
+.bar img{
+	width: 0.4rem;
+	height: 0.36rem;
+	margin-right: 0.106666rem;
+	position: relative;
+	top: -0.013333rem
+}

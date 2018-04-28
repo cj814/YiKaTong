@@ -1,0 +1,73 @@
+body{
+	background: #fff;
+}
+.menu-detail-header{
+	height: 6.56rem;
+	position: relative;
+}
+.menu-detail-header-bg{
+	height: 1.066666rem;
+	line-height: 1.066666rem;
+	color: #fff;
+	text-align: center;
+	font-size: 0.373333rem;
+	background: rgba(90, 169, 215, .6);
+	position: absolute;
+	bottom: 0;
+}
+.menu-detail-content{
+	padding: 0 0.293333rem;
+}
+.td-left,.td-right{
+	color: #5a5a5a;
+	border: solid 1px #d5d5d5;
+}
+.td-left{
+	width: 30%;
+	height: 3.333333rem;
+	font-size: 0.32rem;
+	text-align: center;
+}
+.td-left img{
+	width: 0.533333rem;
+	height: 0.506666rem;
+	position: relative;
+	top: 0.08rem;
+}
+.td-right{
+	width: 70%;
+	padding-left: 0.346666rem;
+	font-size: 0.32rem;
+}
+.menu-evaluate-left,.menu-evaluate-right{
+	height: 1.386666rem;
+	line-height: 1.386666rem;
+}
+.menu-evaluate-left{
+	width: 30%;
+	font-size: 0.32rem;
+	text-align: center;
+	color: #5a5a5a;
+}
+.menu-evaluate-right{
+	padding-left: 0.346666rem;
+}
+.menu-evaluate-right img{
+	width: 0.613333rem;
+	height: 0.613333rem;
+	margin-right: 0.213333rem;
+	position: relative;
+	top: 0.133333rem;
+}
+.menu-comment-btn{
+	height: 1.146666rem;
+	line-height: 1.146666rem;
+	text-align: center;
+	font-size: 0.4rem;
+	color: #fff;
+	background: rgba(107, 171, 232, 1);
+	border-radius: 0.266666rem;
+}
+.menu-comment-btn:active{
+	background: rgba(107, 171, 232, .9);
+}
